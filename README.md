@@ -37,7 +37,7 @@ What this project is not
   396 bytes. There are ways to create ELF files with less overhead than
   that by handcrafting them.
 * _An example of completely optimized code._ I'm sure there's room for
-  more optimizations. Readability was taken into account, and the I only
+  more optimizations. Readability was taken into account, and I only
   removed some obvious redundancies.
 * _An example of how to write robust code._ There are no checks in place
   to verify the validity of the input.
